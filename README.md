@@ -1,16 +1,26 @@
-# React + Vite
+# Bright Future Library 📚
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern web application built with React and Vite. This project aims to provide a clean and interactive platform for managing and exploring library resources.
 
-Currently, two official plugins are available:
+## 🚀 Features
+*   Fast performance using Vite
+*   Responsive design
+*   Clean and modern UI
+*   *(Add any specific features you built here, like "Search functionality" or "Book cataloging")*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Built With
+*   [React](https://reactjs.org/)
+*   [Vite](https://vitejs.dev/)
+*   CSS
 
-## React Compiler
+## 💻 How to Run Locally
+If you want to run this project on your own computer:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clone the repository:
+   `git clone https://github.com/Diane203/Bright-Future-Library.git`
+2. Navigate into the folder:
+   `cd Bright-Future-Library`
+3. Install dependencies:
+   `npm install`
+4. Start the development server:
+   `npm run dev`
