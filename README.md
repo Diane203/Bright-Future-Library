@@ -6,7 +6,7 @@ A modern web application built with React and Vite. This project aims to provide
 *   Fast performance using Vite
 *   Responsive design
 *   Clean and modern UI
-*   *(Add any specific features you built here, like "Search functionality" or "Book cataloging")*
+*   Bright future libaray  system
 
 ## 🛠️ Built With
 *   [React](https://reactjs.org/)
